@@ -1,0 +1,16 @@
+neo4j
+yfinance
+openai
+google-generativeai
+fastapi
+uvicorn[standard]
+streamlit
+pandas
+pydantic
+python-dotenv
+networkx
+beautifulsoup4
+requests
+graphviz
+feedparser
+streamlit-agraph
